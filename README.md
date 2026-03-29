@@ -2,8 +2,6 @@
 
 ### Python Developer | Continuous Learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj07-ux" alt="pankaj07-ux" /></a> </p>
-
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjl2M2J4eWsyaXF5cnJpb3Z6eDVieHJib3dtdXNjZTh1eXphNHFnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif">
 
 
