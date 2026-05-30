@@ -83,10 +83,9 @@ class PankajSah:
 
 | Project | What it is |
 |---|---|
-| **API-bot** | API based bot / automation project |
-| **Social-Info** | Social profile information API project |
-| **Portfolio** | Personal portfolio website |
-| **Region-Guild-Info** | Region and guild information related API |
+| **Sangeet** | Advanced Discord music bot with smooth music controls and server-friendly features |
+| **Guild TCP** | TCP and Free Fire automation project with abnormal characteristic features |
+| **Data Fetching API** | API for fetching data and collecting useful information from different sources |
 
 </div>
 
