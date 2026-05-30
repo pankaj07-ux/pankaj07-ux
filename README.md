@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,30:533483,60:E94560,100:FFD93D&height=220&section=header&text=Pankaj%20Sah&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20CS%20Student%20%7C%20Continuous%20Learner&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,30:533483,60:E94560,100:FFD93D&height=220&section=header&text=Pankaj%20Sah&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20CS%20Student%20%7C%20Bot%20Automation&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFD93D&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pankaj+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Web+Dev+%7C+Bot+Automation+%7C+CS+Student;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFD93D&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pankaj+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Web+Dev+%7C+Bot+Automation;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -11,12 +11,14 @@
 <img src="https://komarev.com/ghpvc/?username=pankaj07-ux&label=Profile+Views&color=E94560&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/pankaj07-ux?label=Followers&style=for-the-badge&color=533483&labelColor=0F3460" />
+&nbsp;
+<img src="https://img.shields.io/badge/From-Nepal%20🇳🇵-E94560?style=for-the-badge&labelColor=0F3460" />
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjl2M2J4eWsyaXF5cnJpb3Z6eDVieHJib3dtdXNjZTh1eXphNHFnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif"/>
+<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjl2M2J4eWsyaXF5cnJpb3Z6eDVieHJib3dtdXNjZTh1eXphNHFnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -25,14 +27,9 @@ class PankajSah:
     name       = "Pankaj Sah"
     role       = "Python Developer & CS Student"
     location   = "Nepal 🇳🇵"
-    studying   = "Computer Science"
-    learning   = ["Python", "Java", "HTML", "CSS"]
-    ask_me     = ["Node.js", "Web Dev", "Bot Automation"]
-    social     = {
-        "github"   : "pankaj07-ux",
-        "instagram": "pankaj_sah07",
-        "discord"  : "discord.gg/9DK4kaK4AK"
-    }
+    learning   = ["Python", "Java", "HTML", "CSS", "JavaScript"]
+    interests  = ["Web Development", "API Development", "Bot Automation"]
+    focus      = "Building useful tools and learning every day"
     motto      = "Code. Learn. Repeat. 🔁"
 ```
 
@@ -60,69 +57,58 @@ class PankajSah:
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Main Skills**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,cs,php,kotlin,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,nodejs,flask,git,github" />
 </p>
 
-**Web & Frameworks**
+**Currently Exploring**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,nextjs,flask,dotnet,flutter" />
-</p>
-
-**Databases & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/>
-</p>
-
-**Design & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,unity,unreal,androidstudio,xd,photoshop,illustrator,matlab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,mysql,firebase,linux,bash" />
 </p>
 
 </div>
 
 ---
 
-## 📊 Top Languages
+## 🚀 Featured Work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj07-ux&layout=compact&theme=tokyonight&hide_border=false&border_color=E94560&title_color=FFD93D&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+| Project | What it is |
+|---|---|
+| **API-bot** | API based bot / automation project |
+| **Social-Info** | Social profile information API project |
+| **Portfolio** | Personal portfolio website |
+| **Region-Guild-Info** | Region and guild information related API |
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 📌 Current Focus
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj07-ux&theme=tokyonight&border=E94560&ring=FFD93D&fire=E94560&currStreakLabel=FFD93D&background=0d1117" alt="GitHub Streak"/>
+<img src="https://img.shields.io/badge/Python-API%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Web-Frontend%20Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Bots-Automation-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj07-ux/pankaj07-ux/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj07-ux/pankaj07-ux/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pankaj07-ux/pankaj07-ux/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj07-ux&theme=tokyonight&hide_border=false&border=E94560&ring=FFD93D&fire=E94560&currStreakLabel=FFD93D&background=0d1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -140,6 +126,6 @@ class PankajSah:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,50:E94560,100:0F3460&height=120&section=footer" width="100%"/>
 
-**✨ Thanks for visiting! If you like my profile, drop a ⭐ on my repos! ✨**
+**✨ Thanks for visiting! Keep building, keep learning! ✨**
 
 </div>
