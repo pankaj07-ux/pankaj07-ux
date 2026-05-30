@@ -98,7 +98,7 @@ class PankajSah:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj07-ux&layout=donut-vertical&theme=tokyonight&border_color=E94560&title_color=FFD93D&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj07-ux&layout=compact&theme=tokyonight&hide_border=false&border_color=E94560&title_color=FFD93D&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
